@@ -2,10 +2,10 @@
 
 ## Doel
 
-Met deze resource proberen we twee dingen te berijken
+Met deze resource proberen we twee dingen te bereiken
 
-1. Het bieden van een begin project om de opstart fase van een nieuw test script te versnellen
-1. Het beschijven en uitleggen van één implementatie van het `Page-Object Model` om zo bij te dragen aan een overzichtelijk en onderhoudbaar Selenium C# project. 
+1. Het bieden van een begin project om de opstart fase van een nieuw test script te versnellen;
+2. Het beschrijven en uitleggen van één implementatie van het `Page-Object Model` om zo bij te dragen aan een overzichtelijk en onderhoudbaar Selenium C# project. 
 
 ## Belangrijk om te weten
 
@@ -30,7 +30,7 @@ Dit heeft een aantal voordelen, maar ook veel nadelen:
     Voor beginners die een privé of opensource project willen starten is het aan te raden te kijken naar de `community` versie van [Visual Studio](https://visualstudio.microsoft.com/vs/community/) als een vriendelijker alternatief. Voor comerciele projecten zul je echter een licentie aan moeten schaven.
 
 ## Voorbereiding
-De volgende stappen moet je nemen voor dat je aan dit project kunt beginnen.
+De volgende stappen moet je nemen voordat je aan dit project kunt beginnen.
 * Intalleer de benodigde software
     * [Download en installeer Visual Studio Code (VSCode)](https://code.visualstudio.com/)
     * [Download en installeer de aanbevolen versie van dotnet framework](https://dotnet.microsoft.com/download/dotnet-framework/net47)
@@ -39,7 +39,7 @@ De volgende stappen moet je nemen voor dat je aan dit project kunt beginnen.
 
 <img src="./resources/InstallExtentions.gif">
 
-* Ga naar de test window en druk op `Reload Test` om te kijken of de voorbeeld test succesvol gevonden wordt.
+* Ga naar de test window en druk op `Reload Test` om te kijken of de test omtrent dit voorbeeld succesvol wordt uitgevoerd.
 
 
 <img src="./resources/ReloadTests.gif">
